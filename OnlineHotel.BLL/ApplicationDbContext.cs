@@ -19,5 +19,7 @@ namespace OnlineHotel.BLL
                 
         }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+
+        public DbSet<Hotel> Hotels  { get; set; }
     }
 }

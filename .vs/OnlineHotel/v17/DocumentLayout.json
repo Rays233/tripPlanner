@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|solutionrelative:onlinehotel.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|solutionrelative:onlinehotel.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064FC547-EB70-487C-A659-BE70235D19CB}|OnlineHotel.Utility\\OnlineHotel.Utility.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.utility\\onlinehotel.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{064FC547-EB70-487C-A659-BE70235D19CB}|OnlineHotel.Utility\\OnlineHotel.Utility.csproj|solutionrelative:onlinehotel.utility\\onlinehotel.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{064FC547-EB70-487C-A659-BE70235D19CB}|OnlineHotel.Utility\\OnlineHotel.Utility.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.utility\\idbinitialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064FC547-EB70-487C-A659-BE70235D19CB}|OnlineHotel.Utility\\OnlineHotel.Utility.csproj|solutionrelative:onlinehotel.utility\\idbinitialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064FC547-EB70-487C-A659-BE70235D19CB}|OnlineHotel.Utility\\OnlineHotel.Utility.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.utility\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064FC547-EB70-487C-A659-BE70235D19CB}|OnlineHotel.Utility\\OnlineHotel.Utility.csproj|solutionrelative:onlinehotel.utility\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|solutionrelative:onlinehotel.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B399B39-49E9-4D60-89AC-EDC23EA2BA81}|OnlineHotel.BLL\\OnlineHotel.BLL.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.bll\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B399B39-49E9-4D60-89AC-EDC23EA2BA81}|OnlineHotel.BLL\\OnlineHotel.BLL.csproj|solutionrelative:onlinehotel.bll\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{064FC547-EB70-487C-A659-BE70235D19CB}|OnlineHotel.Utility\\OnlineHotel.Utility.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{064FC547-EB70-487C-A659-BE70235D19CB}|OnlineHotel.Utility\\OnlineHotel.Utility.csproj|solutionrelative:onlinehotel.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|solutionrelative:onlinehotel.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC042E17-C6DB-4DD3-82C4-15EAAB22DF6E}|OnlineHotel.Models\\OnlineHotel.Models.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC042E17-C6DB-4DD3-82C4-15EAAB22DF6E}|OnlineHotel.Models\\OnlineHotel.Models.csproj|solutionrelative:onlinehotel.models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC042E17-C6DB-4DD3-82C4-15EAAB22DF6E}|OnlineHotel.Models\\OnlineHotel.Models.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.models\\onlinehotel.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC042E17-C6DB-4DD3-82C4-15EAAB22DF6E}|OnlineHotel.Models\\OnlineHotel.Models.csproj|solutionrelative:onlinehotel.models\\onlinehotel.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC042E17-C6DB-4DD3-82C4-15EAAB22DF6E}|OnlineHotel.Models\\OnlineHotel.Models.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC042E17-C6DB-4DD3-82C4-15EAAB22DF6E}|OnlineHotel.Models\\OnlineHotel.Models.csproj|solutionrelative:onlinehotel.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC042E17-C6DB-4DD3-82C4-15EAAB22DF6E}|OnlineHotel.Models\\OnlineHotel.Models.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.models\\onlinehotel.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EC042E17-C6DB-4DD3-82C4-15EAAB22DF6E}|OnlineHotel.Models\\OnlineHotel.Models.csproj|solutionrelative:onlinehotel.models\\onlinehotel.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{064FC547-EB70-487C-A659-BE70235D19CB}|OnlineHotel.Utility\\OnlineHotel.Utility.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.utility\\websiteroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064FC547-EB70-487C-A659-BE70235D19CB}|OnlineHotel.Utility\\OnlineHotel.Utility.csproj|solutionrelative:onlinehotel.utility\\websiteroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B399B39-49E9-4D60-89AC-EDC23EA2BA81}|OnlineHotel.BLL\\OnlineHotel.BLL.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.bll\\onlinehotel.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B399B39-49E9-4D60-89AC-EDC23EA2BA81}|OnlineHotel.BLL\\OnlineHotel.BLL.csproj|solutionrelative:onlinehotel.bll\\onlinehotel.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.web\\onlinehotel.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|solutionrelative:onlinehotel.web\\onlinehotel.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B399B39-49E9-4D60-89AC-EDC23EA2BA81}|OnlineHotel.BLL\\OnlineHotel.BLL.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.bll\\onlinehotel.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3B399B39-49E9-4D60-89AC-EDC23EA2BA81}|OnlineHotel.BLL\\OnlineHotel.BLL.csproj|solutionrelative:onlinehotel.bll\\onlinehotel.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.web\\onlinehotel.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|solutionrelative:onlinehotel.web\\onlinehotel.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|c:\\users\\mason\\source\\repos\\onlinehotel\\onlinehotel.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D36B668-34F8-4036-8A62-D8F0E2AB8366}|OnlineHotel.Web\\OnlineHotel.Web.csproj|solutionrelative:onlinehotel.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,68 +63,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "OnlineHotel.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "OnlineHotel.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineHotel.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\Program.cs",
+              "RelativeToolTip": "OnlineHotel.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T17:04:41.254Z",
+              "WhenOpened": "2024-06-28T19:32:17.673Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Hotel.cs",
-              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Models\\Hotel.cs",
-              "RelativeDocumentMoniker": "OnlineHotel.Models\\Hotel.cs",
-              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Models\\Hotel.cs",
-              "RelativeToolTip": "OnlineHotel.Models\\Hotel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineHotel.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "OnlineHotel.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowH8AAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T16:52:50.892Z"
+              "WhenOpened": "2024-06-30T21:49:06.966Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "OnlineHotel.Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Models\\ApplicationUser.cs",
-              "RelativeToolTip": "OnlineHotel.Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T22:01:10.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WebsiteRoles.cs",
-              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\WebsiteRoles.cs",
-              "RelativeDocumentMoniker": "OnlineHotel.Utility\\WebsiteRoles.cs",
-              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\WebsiteRoles.cs",
-              "RelativeToolTip": "OnlineHotel.Utility\\WebsiteRoles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T22:00:47.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OnlineHotel.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\OnlineHotel.Web.csproj",
-              "RelativeDocumentMoniker": "OnlineHotel.Web\\OnlineHotel.Web.csproj",
-              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\OnlineHotel.Web.csproj",
-              "RelativeToolTip": "OnlineHotel.Web\\OnlineHotel.Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-19T22:00:46.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\EmailSender.cs",
               "RelativeDocumentMoniker": "OnlineHotel.Utility\\EmailSender.cs",
@@ -124,33 +98,35 @@
               "RelativeToolTip": "OnlineHotel.Utility\\EmailSender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T22:00:44.542Z",
+              "WhenOpened": "2024-06-30T20:53:55.476Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "OnlineHotel.Utility\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\DbInitializer.cs",
+              "RelativeToolTip": "OnlineHotel.Utility\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:58:10.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OnlineHotel.Utility.csproj",
-              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\OnlineHotel.Utility.csproj",
-              "RelativeDocumentMoniker": "OnlineHotel.Utility\\OnlineHotel.Utility.csproj",
-              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\OnlineHotel.Utility.csproj",
-              "RelativeToolTip": "OnlineHotel.Utility\\OnlineHotel.Utility.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-19T22:00:41.942Z",
+              "Title": "IDbInitialiser.cs",
+              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\IDbInitialiser.cs",
+              "RelativeDocumentMoniker": "OnlineHotel.Utility\\IDbInitialiser.cs",
+              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\IDbInitialiser.cs",
+              "RelativeToolTip": "OnlineHotel.Utility\\IDbInitialiser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:56:40.24Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineHotel.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "OnlineHotel.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T17:44:30.676Z"
             },
             {
               "$type": "Document",
@@ -160,23 +136,85 @@
               "RelativeDocumentMoniker": "OnlineHotel.Models\\OnlineHotel.Models.csproj",
               "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Models\\OnlineHotel.Models.csproj",
               "RelativeToolTip": "OnlineHotel.Models\\OnlineHotel.Models.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-19T22:00:40.332Z",
+              "WhenOpened": "2024-06-30T20:02:32.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "OnlineHotel.BLL.csproj",
               "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.BLL\\OnlineHotel.BLL.csproj",
               "RelativeDocumentMoniker": "OnlineHotel.BLL\\OnlineHotel.BLL.csproj",
               "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.BLL\\OnlineHotel.BLL.csproj",
               "RelativeToolTip": "OnlineHotel.BLL\\OnlineHotel.BLL.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-19T22:00:38.877Z",
+              "WhenOpened": "2024-06-30T20:01:46.536Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.BLL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineHotel.BLL\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.BLL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OnlineHotel.BLL\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:26:51.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OnlineHotel.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\OnlineHotel.Web.csproj",
+              "RelativeDocumentMoniker": "OnlineHotel.Web\\OnlineHotel.Web.csproj",
+              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\OnlineHotel.Web.csproj",
+              "RelativeToolTip": "OnlineHotel.Web\\OnlineHotel.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T20:05:03.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "OnlineHotel.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "OnlineHotel.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:52:13.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OnlineHotel.Web",
+              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\OnlineHotel.Web.csproj",
+              "RelativeDocumentMoniker": "OnlineHotel.Web\\OnlineHotel.Web.csproj",
+              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\OnlineHotel.Web.csproj",
+              "RelativeToolTip": "OnlineHotel.Web\\OnlineHotel.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T19:55:40.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "OnlineHotel.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "OnlineHotel.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-30T19:50:05.374Z"
             }
           ]
         }

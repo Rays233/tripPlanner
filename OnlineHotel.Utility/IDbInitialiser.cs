@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace OnlineHotel.Utility
 {
-    public static class WebsiteRoles
+    public interface IDbInitializer
     {
-        public const string Hotel_Admin = "Admin";
-        public const string Hotel_Customer = "Customer";
-
+        void Initialize();
     }
 }

@@ -3100,6 +3100,21 @@
         "runtime": {
           "bin/placeholder/OnlineHotel.Models.dll": {}
         }
+      },
+      "OnlineHotel.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "8.0.6",
+          "OnlineHotel.BLL": "1.0.0",
+          "OnlineHotel.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OnlineHotel.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnlineHotel.Utility.dll": {}
+        }
       }
     }
   },
@@ -8591,6 +8606,11 @@
       "type": "project",
       "path": "../OnlineHotel.Models/OnlineHotel.Models.csproj",
       "msbuildProject": "../OnlineHotel.Models/OnlineHotel.Models.csproj"
+    },
+    "OnlineHotel.Utility/1.0.0": {
+      "type": "project",
+      "path": "../OnlineHotel.Utility/OnlineHotel.Utility.csproj",
+      "msbuildProject": "../OnlineHotel.Utility/OnlineHotel.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8601,7 +8621,8 @@
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.6",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.2",
-      "OnlineHotel.BLL >= 1.0.0"
+      "OnlineHotel.BLL >= 1.0.0",
+      "OnlineHotel.Utility >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8634,6 +8655,9 @@
           "projectReferences": {
             "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.BLL\\OnlineHotel.BLL.csproj": {
               "projectPath": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.BLL\\OnlineHotel.BLL.csproj"
+            },
+            "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\OnlineHotel.Utility.csproj": {
+              "projectPath": "C:\\Users\\Mason\\source\\repos\\OnlineHotel\\OnlineHotel.Utility\\OnlineHotel.Utility.csproj"
             }
           }
         }
